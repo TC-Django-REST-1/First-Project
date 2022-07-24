@@ -8,7 +8,7 @@ When requested (http://127.0.0.1:8000/home), it should return the phrase :
 Hello World, This is my new HOME !
 ```
 
-## tests
+## Usage
 ```bash
 $ curl http://127.0.0.1:8000/home/
 Hello World, This is my new HOME !
