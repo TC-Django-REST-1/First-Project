@@ -8,14 +8,14 @@
 
 - Hello World, This is my new HOME !
 
-## My setup
+# My setup
 
-# Operating System: Arch Linux
+## Operating System: Arch Linux
 
-# IDE: VSCode
+## IDE: VSCode
 
-# Python Version: 3.10.5
+## Python Version: 3.10.5
 
-# PIP Version: 22.1.2
+## PIP Version: 22.1.2
 
-# Django Version: 4.0.6
+## Django Version: 4.0.6
