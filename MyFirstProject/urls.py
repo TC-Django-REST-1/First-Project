@@ -19,5 +19,5 @@ import my_first_app.views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("hello/", my_first_app.views.hello)
+    path("home/", my_first_app.views.hello)
 ]
