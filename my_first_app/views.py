@@ -6,6 +6,6 @@ from django.http import HttpRequest, HttpResponse
 
 def hello(request : HttpRequest):
     
-    phrase : str = "Hello World, I love Django!"
+    phrase : str = "Hello World, This is my new HOME !"
     
     return HttpResponse(phrase)
